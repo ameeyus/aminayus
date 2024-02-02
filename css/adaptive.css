@@ -1,0 +1,446 @@
+@media screen and (max-width: 880px) {
+    .callback1 {
+        margin-left: 0;
+    }
+   
+    
+    .nadpis{
+        margin-left: 0;
+    }
+    .mini{
+        margin-left: 0;
+    }
+    .foto2{
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .bk_kp{
+        margin-left: 335px;
+    }
+    .iframe{
+        width: 650px;
+        height: 300px;
+        
+    }
+    .yut{
+        margin-top: 703px;
+    }
+    .katalog_al{
+        margin-top: -330px;
+        width: 880px;
+        margin-left: 0;
+    }
+    .bk_kp2{
+        margin-left: 234px;
+    }
+    .komford{
+        margin-top: -34px;
+    }
+    .img7{
+        width: 650px;
+        height: 300px;
+        margin-left: 0;
+        margin-top: 34px;
+    }
+    .Group17{
+        margin-left: 100px;
+        margin-top: 317px;
+    }
+    .grid {
+        margin-left: 0px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .text10 {
+        margin-top: 30px;
+    }
+    .video {
+        margin: 0 auto;
+    }
+    .iframe1{
+        width: 500px;
+        height: 300px;
+        margin-left: 160px;
+        
+    }
+    .grid2 {
+        margin-left: 0px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .zag {
+        margin-left: 40px;
+    }
+    .zag1{
+        margin-left: 10px;
+    }
+    .li1 {
+        margin-left: 10px;
+    }
+    .small {
+        margin-left: 10px;
+        margin-top: 120px;
+        height: 20px;
+        margin-bottom: 109px;
+    }
+    .video2{
+        margin-left: 0px;
+        margin-top: -520px;
+    }
+    .iframe2{
+        width: 320px;
+        height: 320px;
+        margin-left: 540px;
+        margin-top: 10px;
+    }
+    .zag2{
+        margin-left: 0px;
+
+    }
+    .zag3{
+        margin-left: 0px;
+    }
+    .kn{
+        margin-left: 306px;
+    }
+    .zap{
+        margin-left: 352px;
+    }
+    .hr0{
+        margin-left: 0px;
+    }
+    .mini_nad{
+        margin-left: 0px;
+    }
+    .img3{
+        margin-left: 0px;
+    }
+    .nomer1{
+        margin-left: 0px;
+    }
+    .img4{
+        margin-left: 0px;
+    }
+    .nomer2{
+        margin-left: 0px;
+    }
+    .karta{
+        margin-left: 0px;
+    }
+    .the_end{
+        margin-left: 0px;
+    }
+    
+    .text12{
+        margin-left: 75px;
+        font-size: 15px;
+       
+    }
+    .text13{
+        margin-left: 35px;
+        font-size: 8px;
+        width: 189px;
+    }
+    .karta{
+        width: 500px;
+        height: 200px;
+        margin-left: 400px;
+        
+    }
+    .the_end{
+       
+        margin-left: 200px;
+        margin-top: 100px;
+    }
+    .kvad{
+        width: 250px;
+        height: 300px;
+        
+    }
+    
+  }
+
+@media screen and (max-width: 424px) {
+     .callback2 {
+        margin-left: -106px;
+        margin-top: 0px;
+
+    }
+    .callback1{
+        margin-left:10px;
+        margin-right: 10px;
+    }
+    .call3
+    {
+        width: 30px;
+        margin-left: 300px;
+    }
+    .call4{
+        width: 25px;
+    }
+    .navbar-brand{
+        margin-top: -30px;
+        margin-left: 12px;
+        width: 100%;
+        max-width: 120px;
+    }
+    .burger-icon{
+        margin-left: 10px;
+    }
+    
+    .none{
+        display: none;
+    } 
+    .yes{
+        display: block;
+        margin-top: 10px;
+        
+    }
+    .burger-menu{
+        
+        position: relative;
+    }
+    body {
+        margin: 0;
+        font-family: 'Arial', sans-serif;
+        }
+    .burger-icon,
+    .close-icon{
+        font-size: 30px;
+        cursor: pointer;
+    }
+    .menu1{
+        display: none;
+        position: fixed;
+        top: 0;
+        right: -100%;
+        height: 100%;
+        flex-direction: column;
+        background-color: #f8f8f8;
+        padding: 15px;
+        border: 1px solid #ddd;
+        transition: right 0.3s ease;
+    }
+
+    .burger-icon {
+        display: inline-block;
+    }
+    
+    .menu1 a {
+        text-decoration: none;
+        color: #333;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    
+    .mini{
+        font-size: 10px;
+        margin-top: 50px;
+        margin-left: 18px;
+    }
+    .nadpis{
+        width: 345px;
+        height: 100px;
+        margin-top: -18px;
+        margin-left: 20px;
+    }
+    .foto2{
+        width: 372px;
+        height: 244px;
+        margin-top: -10px;
+        margin-left: 7px;
+    }
+    .bk_kp{
+        width: 178px;
+        height: 40px;
+        margin-top: 196px;
+        margin-left: 100px;
+    }
+    .kp{
+        margin-top: 0px;
+        margin-left: 18px;
+        font-size: 14px;
+    }
+    .iframe{
+        margin-top: 0px;
+        height: 219px;
+        width: 340px;
+    }
+    .yut{
+       margin-top: 304px;
+       margin-left: 40px;
+      
+    }
+    .katalog_al{
+        width: 345px;
+        height: 160px;
+        margin-top: -447px;
+        margin-left: 40px;
+        font-size: 20px;
+        line-height: 1.5;
+    }
+    .haid {
+        display: block;
+    }
+    .bk_kp2 {
+        width: 389px;
+        height: 61px;
+        margin-top: -59px;
+        margin-left: 16px;
+       
+    }
+    .kp2 {
+        width: 285px;
+        font-size: 20px;
+       
+    }
+    .bk_kp3 {
+        width: 389px;
+        height: 61px;
+        margin-top: 16px;
+        margin-left: 16px;
+       
+    }
+    .kp3 {
+        width: 338px;
+        font-size: 20px;
+    }
+    .haid_2 {
+        display: block;
+    }
+    .mini_nad {
+        font-size: 16px;
+        width: 366px;
+        margin-left: 16px;
+    }
+    .nomera{
+        display: flex;
+    }
+    .nomer1 {
+        width: 160px;
+        margin-top: 8px;
+        margin-left: 5px;
+    }
+    .nomer2 {
+        width: 144px;
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+    .text {
+        margin-left: 3px;
+        font-size: 30px;
+    }
+    .img5{
+        width: 387px;
+        margin-left: 3px;
+        margin-top: -10px;
+        height: 206px;
+    }
+    .text1 {
+        margin-top: 12px;
+        margin-left: 47px;
+    }
+    .komford {
+        font-size: 30px;
+        margin-top: 16px;
+        margin-left: 16px;
+        width: 577px;
+        height: 104px;
+        line-height: 1.2;
+    }
+    .img7 {
+        width: 417px;
+        height: 213px;
+        margin-left: 0;
+        margin-top: -4px;
+    }
+    .Group17 {
+        margin-left: 12px;
+        margin-top: 207px;
+    }
+    .grid{
+        display: block;
+    }
+    .text10 {
+        font-size: 25px;
+        margin-top: 16px;
+        margin-left: 10px;
+        line-height: 1.2;
+        width: 360px;
+        height: 100px;
+    }
+    .iframe1 {
+        width: 406px;
+        height: 244px;
+        margin-left: 0px;
+        margin-top: -40px;
+    }
+    .grid2{
+        display: block;
+    }
+    .zag {
+        font-size: 30px;
+        width: 382px;
+        height: 104px;
+        margin-top: 109px;
+        margin-left: 3px;
+    }
+    .zag1 {
+        width: 367px;
+        margin-top: -51px;
+        margin-left: 3px;
+    }
+    .li1 {
+        font-size: 16px;
+        line-height: 1.2;
+        margin-left: -18px;
+        width: 438px;
+        height: 38px;
+        line-height: 1.2;
+    }
+    .small {
+        font-size: 12px;
+        margin-top: 120px;
+        margin-left: 3px;
+        width: 364px;
+        height: 0px;
+    }
+    .zag2 {
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 34px;
+        text-transform: uppercase;
+        width: 395px;
+        height: 60px;
+        margin-top: 121px;
+        margin-left: 0px;
+    }
+    .zag3 {
+        font-size: 20px;
+        width: 405px;
+        margin-top: 17px;
+        margin-left: 0px;
+    }
+    .kn {
+        width: 332px;
+        height: 61px;
+        margin-top: 37px;
+        margin-left: 39px;
+        border-radius: 66px;
+    }
+    .zap {
+        margin-left: 125px;
+    }
+    .karta {
+        width: 337px;
+        height: 200px;
+        margin-left: 3px;
+    }
+    .kvad {
+        position: absolute;
+        width: 250px;
+        height: 300px;
+        margin-top: -323px;
+        margin-left: -10px;
+        border-radius: 10px;
+    }
+}
